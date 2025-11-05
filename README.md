@@ -50,38 +50,38 @@ SlotSwapper solves the problem of rigid schedules by enabling users to mark thei
 
 1. **Clone the Repository**
    ```bash
-   git clone <your-repository-url>
+   git clone https://github.com/dk9480/SlotSwapper-Challenge
    cd slotswapper
 
 2. Backend Setup
-   # Navigate to backend directory
-cd server
+   ### Navigate to backend directory
+   cd server
 
-# Install dependencies
-npm install
+   ### Install dependencies
+   npm install
 
-# Environment Configuration
-# Create a .env file in the server directory with:
-PORT=5000
-MONGODB_URI=mongodb://localhost:27017/slotswapper
-JWT_SECRET=your_jwt_secret_key_here
+   ### Environment Configuration
+   ## Create a .env file in the server directory with:
+   PORT=5000
+   MONGODB_URI=mongodb://localhost:27017/slotswapper
+   JWT_SECRET=your_jwt_secret_key_here
 
-# Start the backend server
-npm run dev
+   ### Start the backend server
+   npm run dev
 
 Backend will run on http://localhost:5000
 
 
 
 3. Frontend Setup
-   # Open a new terminal and navigate to frontend
-cd client
+   ### Open a new terminal and navigate to frontend
+   cd client
 
-# Install dependencies
-npm install
-
-# Start the frontend development server
-npm run dev
+   ### Install dependencies
+   npm install
+   
+   ### Start the frontend development server
+   npm run dev
 
 Frontend will run on http://localhost:5173
 
