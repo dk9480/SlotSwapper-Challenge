@@ -251,3 +251,35 @@ Frontend will run on http://localhost:5173
 - [ ] **Performance Optimization** - Code splitting and lazy loading
 - [ ] **PWA Features** - Offline capability and app-like experience
 
+
+# Finally
+
+
+## 📸 Recommended Screenshots
+
+You should add these screenshots to your repository:
+
+1. Login and SignUp 
+
+1. **Dashboard View** (`<img width="1380" height="900" alt="image" src="https://github.com/user-attachments/assets/babad5ef-4e7d-486c-8bcb-0356115cc86d" /> `)
+   - Show the main dashboard with events list
+   - Include the "Create New Event" expandable form
+
+2. **Marketplace View** (`/screenshots/marketplace.png`)
+   - Show available slots from other users
+   - Include the swap request modal
+
+3. **Requests Page** (`/screenshots/requests.png`)
+   - Show both incoming and outgoing requests
+   - Include the accept/reject buttons
+
+4. **Login/Signup** (`/screenshots/auth.png`)
+   - Show the authentication forms
+
+To add screenshots:
+1. Take screenshots of your running application
+2. Save them in a `/screenshots` folder in your repository
+3. Update the image paths in the README accordingly
+
+This README provides comprehensive documentation that will help reviewers understand your project and get it running quickly!
+
