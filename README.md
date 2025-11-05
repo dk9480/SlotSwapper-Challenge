@@ -263,7 +263,7 @@ You should add these screenshots to your repository:
    - Main dashboard showing events list and create event form
 
 
-2. **Marketplace View** <img width="1552" height="580" alt="image" src="https://github.com/user-attachments/assets/840931f0-2d94-463a-8afa-09c0091b1cc3" /> with 
+2. **Marketplace View** <img width="1552" height="580" alt="image" src="https://github.com/user-attachments/assets/840931f0-2d94-463a-8afa-09c0091b1cc3" />  
    - Browse available slots from other users and request swaps
 
 
@@ -277,13 +277,8 @@ You should add these screenshots to your repository:
    - Include the accept/reject buttons
    
 
-4. **Login/Signup**  ![WhatsApp Image 2025-11-05 at 23 29 39_5a76f274](https://github.com/user-attachments/assets/a2d2d4f1-119e-4b19-b711-44b27983d2e1)
+4. **Login/Signup**  
+![WhatsApp Image 2025-11-05 at 23 29 39_5a76f274](https://github.com/user-attachments/assets/a2d2d4f1-119e-4b19-b711-44b27983d2e1)
    - User authentication forms
 
-To add screenshots:
-1. Take screenshots of your running application
-2. Save them in a `/screenshots` folder in your repository
-3. Update the image paths in the README accordingly
-
-This README provides comprehensive documentation that will help reviewers understand your project and get it running quickly!
 
