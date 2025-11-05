@@ -123,30 +123,33 @@ Frontend will run on http://localhost:5173
 | `server/middleware/` | Authentication middleware |
 | `README.md` | Project documentation |
 
-🔌 API Endpoints
-    Authentication Endpoints
-    | Method | Endpoint | Description | Body |
-| :--- | :--- | :--- | :---|
-| **POST** | /api/auth/signup | User registration | {name, email, password} |
-| **POST** | /api/auth/login | User login | {email, password} |
+## 🔌 API Endpoints
 
-   Event Endpoints
-    | Method | Endpoint | Description | Headers | Body |
-| :--- | :--- | :--- | :---|
-| **GET** | /api/events | Get user's events	 | x-auth-token | - |
-| **POST** | /api/events | Create new event	 |  x-auth-token | {title, startTime, endTime} |
-| **PUT** | /api/events/:id | Update event status	 | x-auth-token | {status} |
-| **DELETE** | /api/events/:id | Delete event	 | x-auth-token | - |
+### Authentication Endpoints
 
+| Method | Endpoint | Description | Body |
+|--------|----------|-------------|------|
+| POST | `/api/auth/signup` | User registration | `{name, email, password}` |
+| POST | `/api/auth/login` | User login | `{email, password}` |
 
-  Swap Endpoints
-    | Method | Endpoint | Description | Headers | Body |
-| :--- | :--- | :--- | :---|
-| **GET** | /api/swaps/swappable-slots | Get available slots		 | x-auth-token | x-auth-token | - |
-| **GET** | /api/swaps/incoming | Get incoming requests		 | x-auth-token | x-auth-token | - |
-| **PUT** | /api/swaps/outgoing | Get outgoing requests		 | x-auth-token | - |
-| **POST** | 	/api/swaps/swap-request | Request a swap		 | x-auth-token | {mySlotId, theirSlotId} |
-| **POST** | /api/swaps/swap-response/:requestId | Respond to swap		 | x-auth-token | {isAccepted} |
+### Event Endpoints
+
+| Method | Endpoint | Description | Headers | Body |
+|--------|----------|-------------|---------|------|
+| GET | `/api/events` | Get user's events | `x-auth-token` | - |
+| POST | `/api/events` | Create new event | `x-auth-token` | `{title, startTime, endTime}` |
+| PUT | `/api/events/:id` | Update event status | `x-auth-token` | `{status}` |
+| DELETE | `/api/events/:id` | Delete event | `x-auth-token` | - |
+
+### Swap Endpoints
+
+| Method | Endpoint | Description | Headers | Body |
+|--------|----------|-------------|---------|------|
+| GET | `/api/swaps/swappable-slots` | Get available slots | `x-auth-token` | - |
+| GET | `/api/swaps/incoming` | Get incoming requests | `x-auth-token` | - |
+| GET | `/api/swaps/outgoing` | Get outgoing requests | `x-auth-token` | - |
+| POST | `/api/swaps/swap-request` | Request a swap | `x-auth-token` | `{mySlotId, theirSlotId}` |
+| POST | `/api/swaps/swap-response/:requestId` | Respond to swap | `x-auth-token` | `{isAccepted}` |
 
 
 ## 🎯 Usage Guide
