@@ -57,17 +57,19 @@ SlotSwapper solves the problem of rigid schedules by enabling users to mark thei
    cd slotswapper
 
 2. Backend Setup
+      ```bash
+
    ### Navigate to backend directory
    cd server
 
    ### Install dependencies
    npm install
 
-   ### Environment Configuration
-   ## Create a .env file in the server directory with:
-   PORT=5000
-   MONGODB_URI=mongodb://localhost:27017/slotswapper
-   JWT_SECRET=your_jwt_secret_key_here
+   # Environment Configuration
+   # Create a .env file in the server directory with:
+      PORT=5000
+      MONGODB_URI=mongodb://localhost:27017/slotswapper
+      JWT_SECRET=your_jwt_secret_key_here
 
    ### Start the backend server
    npm run dev
