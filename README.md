@@ -3,7 +3,8 @@
 A peer-to-peer time-slot scheduling application that allows users to swap their busy time slots with others. Built with React.js frontend and Node.js/Express backend with MongoDB.
 
 <img width="1478" height="742" alt="image" src="https://github.com/user-attachments/assets/b59cd647-01ae-40cc-8213-afa242613fe1" /> 
-<img width="1375" height="702" alt="image" src="https://github.com/user-attachments/assets/94363a36-6c87-41a1-b510-49132c179a72" />
+<img width="1322" height="904" alt="image" src="https://github.com/user-attachments/assets/93d0c20d-dac1-4388-9068-6258fca47926" />
+
 
 
 
