@@ -259,19 +259,24 @@ Frontend will run on http://localhost:5173
 
 You should add these screenshots to your repository:
 
-1. Login and SignUp 
-
 1. **Dashboard View** <img width="1380" height="900" alt="image" src="https://github.com/user-attachments/assets/babad5ef-4e7d-486c-8bcb-0356115cc86d" /> 
    - Show the main dashboard with events list
    - Include the "Create New Event" expandable form
 
-2. **Marketplace View** (`/screenshots/marketplace.png`)
+2. **Marketplace View** <img width="1552" height="580" alt="image" src="https://github.com/user-attachments/assets/840931f0-2d94-463a-8afa-09c0091b1cc3" /> with 
+
    - Show available slots from other users
    - Include the swap request modal
 
-3. **Requests Page** (`/screenshots/requests.png`)
+3. **Requests Page** <img width="1324" height="283" alt="image" src="https://github.com/user-attachments/assets/89ac8967-01f6-4b7d-9bee-f9a07387d09c" />
+                     <img width="1323" height="310" alt="image" src="https://github.com/user-attachments/assets/2383128b-433c-4aca-9e67-685d535a3be0" />
+                     <img width="1377" height="271" alt="image" src="https://github.com/user-attachments/assets/9151a0eb-352c-4fa2-8b9d-fa945f57f561" />
+                     <img width="1285" height="273" alt="image" src="https://github.com/user-attachments/assets/13dd2ce0-b280-4930-aa05-fb72523b8bf3" />
+
+
    - Show both incoming and outgoing requests
    - Include the accept/reject buttons
+   
 
 4. **Login/Signup** (`/screenshots/auth.png`)
    - Show the authentication forms
