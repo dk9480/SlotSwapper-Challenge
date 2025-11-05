@@ -78,12 +78,13 @@ Backend will run on http://localhost:5000
 
 3. Frontend Setup
    ### Open a new terminal and navigate to frontend
+   ```bash
    cd client
 
-   ### Install dependencies
+   # Install dependencies
    npm install
    
-   ### Start the frontend development server
+   # Start the frontend development server
    npm run dev
 
 Frontend will run on http://localhost:5173
