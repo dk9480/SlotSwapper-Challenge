@@ -106,8 +106,6 @@ Frontend will run on http://localhost:5173
 
 ## 🗂️ Project Structure
 
-## 🗂️ Project Structure
-
 | Path | Description |
 |------|-------------|
 | `client/` | React frontend application |
