@@ -2,8 +2,10 @@
 
 A peer-to-peer time-slot scheduling application that allows users to swap their busy time slots with others. Built with React.js frontend and Node.js/Express backend with MongoDB.
 
-![SlotSwapper Dashboard](https://via.placeholder.com/800x400/1a1a1a/667eea?text=SlotSwapper+Dashboard)
-*Replace this with an actual screenshot of your dashboard*
+<img width="1478" height="742" alt="image" src="https://github.com/user-attachments/assets/b59cd647-01ae-40cc-8213-afa242613fe1" /> 
+<img width="1375" height="702" alt="image" src="https://github.com/user-attachments/assets/94363a36-6c87-41a1-b510-49132c179a72" />
+
+
 
 ## 🚀 Overview
 
