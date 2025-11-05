@@ -277,9 +277,7 @@ You should add these screenshots to your repository:
    - Include the accept/reject buttons
    
 
-4. **Login/Signup** ![WhatsApp Image 2025-11-05 at 23 03 18_b5cfb113](https://github.com/user-attachments/assets/c564324b-1dc9-4379-85b2-4b90d3edb7c9)
-                    ![WhatsApp Image 2025-11-05 at 23 03 18_62328336](https://github.com/user-attachments/assets/a0e31897-349e-4b77-84f4-5f0d09e91799)
-
+4. **Login/Signup**  ![WhatsApp Image 2025-11-05 at 23 29 39_5a76f274](https://github.com/user-attachments/assets/a2d2d4f1-119e-4b19-b711-44b27983d2e1)
    - User authentication forms
 
 To add screenshots:
