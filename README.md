@@ -106,20 +106,21 @@ Frontend will run on http://localhost:5173
   * Sign up for a new account or use existing credentials
 
 
-🗂️ Project Structure
+## 🗂️ Project Structure
+
 slotswapper/
-├── client/                 # React frontend
-│   ├── src/
-│   │   ├── components/     # Reusable components
-│   │   ├── pages/         # Page components
-│   │   ├── context/       # Auth context
-│   │   └── App.jsx        # Main app component
-│   └── package.json
-├── server/                # Express backend
-│   ├── models/           # MongoDB models
-│   ├── routes/           # API routes
-│   ├── middleware/       # Auth middleware
-│   └── package.json
+├── client/ # React frontend
+│ ├── src/
+│ │ ├── components/ # Reusable components
+│ │ ├── pages/ # Page components
+│ │ ├── context/ # Auth context
+│ │ └── App.jsx # Main app component
+│ └── package.json
+├── server/ # Express backend
+│ ├── models/ # MongoDB models
+│ ├── routes/ # API routes
+│ ├── middleware/ # Auth middleware
+│ └── package.json
 └── README.md
 
 🔌 API Endpoints
