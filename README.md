@@ -126,9 +126,6 @@ slotswapper/
 | :--- | :--- | :--- | :---|
 | **POST** | /api/auth/signup | User registration | {name, email, password} |
 | **POST** | /api/auth/login | User login | {email, password} |
-| **Product Data** | **Third-Party API Integration** | Source of all product names, prices, and images (Read-Only). |
-| **Cart Data** | MongoDB, Mongoose | Stores user's persistent cart items (Read/Write). |
-
 
    Event Endpoints
     | Method | Endpoint | Description | Headers | Body |
