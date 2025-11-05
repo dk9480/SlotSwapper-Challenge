@@ -260,13 +260,12 @@ Frontend will run on http://localhost:5173
 You should add these screenshots to your repository:
 
 1. **Dashboard View** <img width="1380" height="900" alt="image" src="https://github.com/user-attachments/assets/babad5ef-4e7d-486c-8bcb-0356115cc86d" /> 
-   - Show the main dashboard with events list
-   - Include the "Create New Event" expandable form
+   - Main dashboard showing events list and create event form
+
 
 2. **Marketplace View** <img width="1552" height="580" alt="image" src="https://github.com/user-attachments/assets/840931f0-2d94-463a-8afa-09c0091b1cc3" /> with 
+   - Browse available slots from other users and request swaps
 
-   - Show available slots from other users
-   - Include the swap request modal
 
 3. **Requests Page** <img width="1324" height="283" alt="image" src="https://github.com/user-attachments/assets/89ac8967-01f6-4b7d-9bee-f9a07387d09c" />
                      <img width="1323" height="310" alt="image" src="https://github.com/user-attachments/assets/2383128b-433c-4aca-9e67-685d535a3be0" />
@@ -274,15 +273,14 @@ You should add these screenshots to your repository:
                      <img width="1285" height="273" alt="image" src="https://github.com/user-attachments/assets/13dd2ce0-b280-4930-aa05-fb72523b8bf3" />
 
 
-   - Show both incoming and outgoing requests
+   - Manage incoming and outgoing swap requests
    - Include the accept/reject buttons
    
 
 4. **Login/Signup** ![WhatsApp Image 2025-11-05 at 23 03 18_b5cfb113](https://github.com/user-attachments/assets/c564324b-1dc9-4379-85b2-4b90d3edb7c9)
                     ![WhatsApp Image 2025-11-05 at 23 03 18_62328336](https://github.com/user-attachments/assets/a0e31897-349e-4b77-84f4-5f0d09e91799)
 
-
-   - Show the authentication forms
+   - User authentication forms
 
 To add screenshots:
 1. Take screenshots of your running application
