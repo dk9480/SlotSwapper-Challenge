@@ -253,8 +253,6 @@ Frontend will run on http://localhost:5173
 
 ## 📸 Recommended Screenshots
 
-You should add these screenshots to your repository:
-
 1. **Dashboard View** <img width="1380" height="900" alt="image" src="https://github.com/user-attachments/assets/babad5ef-4e7d-486c-8bcb-0356115cc86d" /> 
    - Main dashboard showing events list and create event form
 
