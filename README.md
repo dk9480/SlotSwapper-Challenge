@@ -108,20 +108,20 @@ Frontend will run on http://localhost:5173
 
 ## 🗂️ Project Structure
 
-slotswapper/
-├── client/ # React frontend
-│ ├── src/
-│ │ ├── components/ # Reusable components
-│ │ ├── pages/ # Page components
-│ │ ├── context/ # Auth context
-│ │ └── App.jsx # Main app component
-│ └── package.json
-├── server/ # Express backend
-│ ├── models/ # MongoDB models
-│ ├── routes/ # API routes
-│ ├── middleware/ # Auth middleware
-│ └── package.json
-└── README.md
+## 🗂️ Project Structure
+
+| Path | Description |
+|------|-------------|
+| `client/` | React frontend application |
+| `client/src/components/` | Reusable React components |
+| `client/src/pages/` | Page components (Dashboard, Login, etc.) |
+| `client/src/context/` | Authentication context |
+| `client/src/App.jsx` | Main application component |
+| `server/` | Express.js backend API |
+| `server/models/` | MongoDB data models |
+| `server/routes/` | API route handlers |
+| `server/middleware/` | Authentication middleware |
+| `README.md` | Project documentation |
 
 🔌 API Endpoints
     Authentication Endpoints
